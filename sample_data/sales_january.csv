@@ -1,0 +1,5 @@
+date,product,category,amount,customer
+2026-01-03,Laptop,Electronics,1200,Alice
+2026-01-05,Mouse,Electronics,25,Bob
+2026-01-08,Chair,Furniture,180,Charlie
+2026-01-10,Notebook,Office,15,David
