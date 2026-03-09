@@ -60,7 +60,7 @@ csv-data-automation
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/csv-data-automation.git
+git clone https://github.com/kanatkZ001/csv-data-automation.git
 cd csv-data-automation
 ```
 
